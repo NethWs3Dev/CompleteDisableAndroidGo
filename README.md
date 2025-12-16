@@ -1,19 +1,18 @@
-# CompleteDisableAndroidGo
-A module to disable Android Go.
+## CompleteDisableAndroidGo
+A module to disable Android Go limitations.
 
-# Working on:
-* KernelSU
-* Magisk
-* APatch
+*Working on:*
+- KernelSU
+- Magisk
+- APatch
 
-# What will happen if Android Go is disabled?
-✅ Picture in picture, split screen, floating windows is working perfectly!
-✅ Removing some Android Go limitations, explore yourself!
+*What happens when Android Go is disabled?*
+- *Picture-in-picture, split screen, and floating windows work perfectly!*
+- Removes some Android Go restrictions—explore the improvements yourself!
 
-# Issues
-⚠️ For KernelSU users, please turn off **Umount Modules By Default** before installing.
+*Issues:*
+- ⚠️ *KernelSU users:* Turn off *Umount Modules By Default* before installing to avoid issues.
 
-# Created by:
-- [https://github.com/NethWs3Dev](NethWs3Dev)
-- [https://www.facebook.com/n3th7](Contact me on Facebook)
-
+*Created by:*
+- [NethWs3Dev](https://github.com/NethWs3Dev)
+- [My Facebook Account](https://www.facebook.com/n3th7)
